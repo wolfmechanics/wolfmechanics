@@ -1,7 +1,6 @@
-/// Compute Wolf 🐺 
-// All Conditions 🌌 
+/// Compute Wolf 🐺  
 // Provider of Fiji 💧 
-// Jesus is King 🩸
+// Guild Leader at Wolfmechanics Hideout
 
 <!---
 wolfmechanics/wolfmechanics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
